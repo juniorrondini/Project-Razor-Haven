@@ -5,7 +5,7 @@
 
 # Sistema de Barbearia - README
 
-Este é o README do projeto de desenvolvimento de um sistema de barbearia. O objetivo é criar um software limpo e fácil de usar que otimize a rotina dos salões. Neste documento, você encontrará um roadmap com os passos a serem seguidos, desde a análise do banco de dados até a colocação do sistema no mercado para teste e melhorias futuras de desempenho.
+Projeto de desenvolvimento de um sistema de barbearia. O objetivo é criar um software limpo e fácil de usar que otimize a rotina dos salões. Neste documento, você encontrará um roadmap com os passos a serem seguidos, desde a análise do banco de dados até a colocação do sistema no mercado para teste e melhorias futuras de desempenho.
 
 ## Roadmap
 
