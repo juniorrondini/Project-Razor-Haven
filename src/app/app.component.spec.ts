@@ -4,7 +4,7 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { SidebarComponent } from './components/sidebar/sidebar.component';
 import { FirstComponentComponent } from './components/first-component/first-component.component';
-import { FooterComponent } from './components/footer/footer.component'; // Importe o app-footer aqui
+import { FooterComponent } from './components/footer/footer.component';
 
 describe('AppComponent', () => {
   let component: AppComponent;
@@ -13,7 +13,13 @@ describe('AppComponent', () => {
   beforeEach(async () => {
     await TestBed.configureTestingModule({
       imports: [RouterTestingModule],
-      declarations: [AppComponent, HeaderComponent, SidebarComponent, FirstComponentComponent, FooterComponent] // Adicione o app-footer nas declarações
+      declarations: [
+        AppComponent,
+        HeaderComponent,
+        SidebarComponent,
+        FirstComponentComponent,
+        FooterComponent
+      ]
     }).compileComponents();
   });
 
